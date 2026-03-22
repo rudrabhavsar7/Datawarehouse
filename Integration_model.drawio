@@ -38,7 +38,7 @@
         <mxCell id="qM64xo1fsW0bDQvONlDa-18" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
           <mxGeometry height="119" width="160" x="200" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="qM64xo1fsW0bDQvONlDa-10" parent="qM64xo1fsW0bDQvONlDa-18" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=light-dark(#FFFFFF,#66B2FF);fontColor=light-dark(#000000,#000000);" value="crm_cust_info" vertex="1">
+        <mxCell id="qM64xo1fsW0bDQvONlDa-10" parent="qM64xo1fsW0bDQvONlDa-18" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=light-dark(#FFFFFF,#66B2FF);fontColor=light-dark(#000000,#000000);" value="crm_sales_details" vertex="1">
           <mxGeometry height="89" width="160" y="30" as="geometry">
             <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
           </mxGeometry>
