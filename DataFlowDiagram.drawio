@@ -114,22 +114,22 @@
         <mxCell id="CV_yeFmuv4YF3l9RW_IN-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_px_cat_g1v2&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="255" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_sales_details&amp;nbsp;&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_sales_details&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_prd_info&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_prd_info&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_cust_info&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;crm_cust_info&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="257.5" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_loc_a101&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_loc_a101&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_cust_az12&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_cust_az12&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="rJFBifJbzFhCZ3a-q8tj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFB570);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_px_cat_g1v2&lt;/font&gt;" vertex="1">
+        <mxCell id="rJFBifJbzFhCZ3a-q8tj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);fontColor=light-dark(#000000,#000000);fontStyle=1" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;erp_px_cat_g1v2&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="455" y="520" as="geometry" />
         </mxCell>
       </root>
